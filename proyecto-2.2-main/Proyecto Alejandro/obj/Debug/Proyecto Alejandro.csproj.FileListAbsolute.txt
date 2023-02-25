@@ -1,0 +1,33 @@
+C:\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.exe.config
+C:\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.exe
+C:\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.pdb
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.AssemblyReference.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.SuggestedBindingRedirects.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Properties.Resources.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.GenerateResource.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.CoreCompileInputs.cache
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.exe
+C:\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.pdb
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.Main.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.BalanceGeneralCrear.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.InicioSesion.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.BalanceGeneralVer.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.EstadoResultadoCrear.resources
+C:\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.EstadoResultadoVer.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.exe.config
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.exe
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\bin\Debug\Proyecto Alejandro.pdb
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.AssemblyReference.cache
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.InicioSesion.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Properties.Resources.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.BalanceGeneralCrear.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.BalanceGeneralVer.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.EstadoResultadoCrear.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.EstadoResultadoVer.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.Main.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto_Alejandro.Views.Utilidad.resources
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.GenerateResource.cache
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.exe
+C:\Users\Gallo\Downloads\proyecto-2.1-main\Proyecto Alejandro\obj\Debug\Proyecto Alejandro.pdb
